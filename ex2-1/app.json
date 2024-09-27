@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "witty-indigo-raisins",
+    "slug": "snack-f72ce950-f6a3-4964-9412-ec185b40f4f4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.adambs.snackf72ce950f6a349649412ec185b40f4f4"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c99cc569-72e5-43db-99aa-c32a9982faac"
+      }
+    }
+  }
+}
